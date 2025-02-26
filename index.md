@@ -5,3 +5,6 @@
 ##### heading 5
 ###### heading 6
 ![Image of pythocat](https://octodex.github.com/images/pythocat.png)
+```python
+print('hello world')
+```
